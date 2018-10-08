@@ -1,0 +1,19 @@
+{
+    "name": "roketin/wp-woocommerce",
+    "description": "this plugin to connect woocomerce to roketin engine",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BeyKun",
+            "email": "bayurasukmaraga@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Roketin\\Woocommerce\\": "src/"
+        }
+    }
+}
