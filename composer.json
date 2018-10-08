@@ -1,5 +1,5 @@
 {
-    "name": "roketin/wp-woocommerce",
+    "name": "beykun/wp-woocommerce",
     "description": "this plugin to connect woocomerce to roketin engine",
     "type": "library",
     "license": "MIT",
